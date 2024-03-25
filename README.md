@@ -64,4 +64,5 @@ Este projeto está sob a licença GNU - veja o arquivo [LICENSE](LICENSE) para d
 ## 📩 Contato
 
 Roberto Gentile - roberto@inovaebiz.com.br
+
 Projeto: https://www.github.com/robertogentile/diagram-karate-goju-ryu
