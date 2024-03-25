@@ -4,11 +4,13 @@
 ![Badge](https://img.shields.io/badge/Diagramas-Visuais-blue)
 ![GNU License](https://img.shields.io/badge/license-GNU-green)
 
- Este repositório contém uma série de diagramas visuais criados para explorar e conectar as diversas técnicas do Karate Goju-Ryu, incluindo socos, chutes, defesas e posturas. Utilizando a abordagem de mapas mentais, estes diagramas oferecem uma visão única e interconectada que auxilia praticantes e entusiastas na compreensão profunda das técnicas e suas aplicações.
+Este repositório contém uma série de diagramas visuais criados para explorar e conectar as diversas técnicas do Karate Goju-Ryu, incluindo socos, chutes, defesas e posturas. Utilizando a abordagem de mapas mentais, estes diagramas oferecem uma visão única e interconectada que auxilia praticantes e entusiastas na compreensão profunda das técnicas e suas aplicações.
 
 ## 🖼️ Preview dos Diagramas
 
 ![image](https://github.com/robertogentile/diagram-karate-goju-ryu/assets/25671145/e0f97aef-93dc-42fd-8b86-f9fca135522d)
+
+A versão mais recente pode ser vista [clicando aqui](KARATE.pdf).
 
 
 ## 📚 Como Visualizar
@@ -20,12 +22,24 @@ Os diagramas estão disponíveis no formato compatível com o [Draw.io](https://
 
 ## 📥 Download e Uso Local
 
-Para baixar e visualizar os diagramas localmente:
+### Usando o GitHub CLI
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO_AQUI
-cd NOME_DO_DIRETORIO
+git clone https://github.com/robertogentile/diagram-karate-goju-ryu
+cd diagram-karate-goju-ryu
 ```
+
+### Usando o GitHub Desktop
+
+Para aqueles que preferem uma interface gráfica, o GitHub Desktop simplifica o processo:
+
+1. Abra o GitHub Desktop e faça login com sua conta GitHub.
+2. No menu superior, selecione `File` > `Clone Repository`.
+3. Na aba `URL`, cole a URL do seu repositório (`https://github.com/robertogentile/diagram-karate-goju-ryu`) e escolha onde deseja salvar o repositório no seu computador.
+4. Clique em `Clone` para iniciar o download.
+
+Após o clone, você pode abrir a pasta do repositório diretamente pelo GitHub Desktop ou explorar os arquivos utilizando o explorador de arquivos do seu sistema operacional.
+
 
 ## 🤝 Como Contribuir
 
