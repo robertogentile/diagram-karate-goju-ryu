@@ -39,7 +39,7 @@ Interessado em contribuir? Adoraríamos ter seu apoio para expandir ou refinar o
 
 ## 📖 Licença
 
-Este projeto está sob a licença GNU - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto está sob a licença GNU - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 📩 Contato
 
