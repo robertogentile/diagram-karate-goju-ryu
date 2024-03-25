@@ -15,7 +15,13 @@ A versão mais recente pode ser vista [clicando aqui](KARATE.pdf).
 
 ## 📚 Como Visualizar
 
-Os diagramas estão disponíveis no formato compatível com o [Draw.io](https://www.draw.io), permitindo uma experiência interativa de visualização e exploração:
+### Visualizando pelo PDF
+
+Você pode apenas acessar a versão mais recente [clicando aqui](KARATE.pdf).
+
+### Usando o Draw.io
+
+Os diagramas estão disponíveis no formato compatível com o [Draw.io](https://www.draw.io), permitindo uma experiência interativa de visualização e exploração.
 
 1. Acesse [Draw.io](https://www.draw.io).
 2. Escolha 'Arquivo' > 'Abrir de...' e selecione o arquivo do diagrama desejado.
