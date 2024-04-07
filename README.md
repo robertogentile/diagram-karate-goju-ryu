@@ -8,7 +8,7 @@ Este repositório contém uma série de diagramas visuais criados para explorar 
 
 ## 🖼️ Preview dos Diagramas
 
-![image](https://github.com/robertogentile/diagram-karate-goju-ryu/assets/25671145/1b712a3e-b2be-4e0b-b234-c779e9f48ad0)
+![image](https://github.com/robertogentile/diagram-karate-goju-ryu/assets/25671145/1093cb6a-508f-421e-ad8f-825961546aed)
 
 A versão mais recente pode ser vista [clicando aqui](KARATE.pdf).
 
